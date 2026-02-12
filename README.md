@@ -19,4 +19,4 @@ This project explores the "Chicken and Egg" paradox between education and econom
 - `output/`: High-resolution charts and graphs.
 
 ## 🔗 Live View
-- 
+- Click Here to view it live [https://nbviewer.org/github/veeedant/literacy-rate-vs-gdp-per-capita-analysis/blob/main/analysis.ipynb]
